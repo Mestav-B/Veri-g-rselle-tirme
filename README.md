@@ -1,1 +1,1 @@
-# Veri-g-rselle-tirme
+# Veri görselleştirmesi 
